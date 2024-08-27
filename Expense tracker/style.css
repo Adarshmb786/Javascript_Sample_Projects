@@ -1,0 +1,124 @@
+.exp{
+    background: linear-gradient(to right, #02aab0, #00cdac);
+    padding: 10px;
+    border-radius: 2%;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 235px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.container2{
+    background-color: black;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px;
+    width: 400px;
+    display: none  
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 5%;
+    color: white;
+}
+
+.heading{
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+body{
+    background-color: black;
+}
+
+.addBtn{
+    float: left;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#warningMsg{
+    float: left;
+    margin-left: 100px;
+    margin-top: 6px;
+    color: red;
+    visibility: hidden;
+}
+
+.modal-body{
+    background-color: ;
+}
+
+.modal-header{
+    background: linear-gradient(to right, #02aab0, #00cdac);
+    color: white;
+    height: 60px;
+}
+
+.addBtn{
+    background: linear-gradient(to right, #02aab0, #00cdac);
+    color: white;
+}
+
+.firstContainer{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 40px 0px;
+    margin-top: 220px;
+}
+
+.letsgoBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, #02aab0, #00cdac);
+}
+
+#_h4{
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.modal-dialog{
+    margin-top: 170px
+}
+
+.modal_head{
+    margin-top: -1px;
+}
+
+form{
+    margin-top: 10px;
+}
+
+.expBtn{
+    background-color: #00a86b;
+}
+
+.viewBtn{
+    background-color: #fe6f5e;
+}
+
+.noRecords{
+    color: red;
+    font-size: 20px;
+    font-family: cursive;
+}
